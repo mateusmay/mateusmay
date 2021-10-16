@@ -10,7 +10,7 @@
 
 <h1>Techs</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50" align="left"/>
+<img src="https://cdn.jsdelivr.net/npm/icon-for-file-type@1.0.0/icons/py256x256.png" alt="Python Logo" width="50" height="50" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Html5 Logo" width="50" height="50" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="Css3 Logo" width="50" height="50" align="left"/>
